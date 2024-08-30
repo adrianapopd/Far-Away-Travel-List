@@ -8,4 +8,7 @@ This React project helped me developed many new skills for a professional develo
 
   This project was part of my Udemy "The ultimate React Course 2024" by Jonas Schmedtmann.
   Here are some peeks of my Far Away App:
-  ![ss1]()
+  ![ss1](https://github.com/adrianapopd/Far-Away-Travel-List/blob/main/faraway1.png)
+  ![ss1](https://github.com/adrianapopd/Far-Away-Travel-List/blob/main/faraway2.png)
+  ![ss1](https://github.com/adrianapopd/Far-Away-Travel-List/blob/main/faraway3.png)
+  
